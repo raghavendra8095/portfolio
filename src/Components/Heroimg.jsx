@@ -19,9 +19,7 @@ const Heroimg = () => {
           >
             Get_cv
           </Link>
-          {/* <Link to="/contact" className="btn-light">
-            Contact
-          </Link> */}
+        
         </div>
       </div>
     </div>
