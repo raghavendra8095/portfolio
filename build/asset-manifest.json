@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fc2315a.css",
+    "main.js": "/static/js/main.05952ffc.js",
+    "static/media/about2.jpg": "/static/media/about2.5a1b0d4171ed68a0211c.jpg",
+    "static/media/about.jpg": "/static/media/about.0a4893421f4eb80a395c.jpg",
+    "static/media/html.png": "/static/media/html.29978090866280833b70.png",
+    "static/media/banner2.jpg": "/static/media/banner2.bc6a11c31ddf58ba57c1.jpg",
+    "static/media/banner5.jpg": "/static/media/banner5.ad7b238166ecff86249e.jpg",
+    "static/media/signup.png": "/static/media/signup.2eda4787ec42757ef298.png",
+    "static/media/social-media.jpg": "/static/media/social-media.db2f36020c7246d8576e.jpg",
+    "static/media/java-logo-1.png": "/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
+    "static/media/css.png": "/static/media/css.ea63097553654f07d95c.png",
+    "static/media/calculator.jpg": "/static/media/calculator.411e94f53148cde281bd.jpg",
+    "static/media/todo-app.jpg": "/static/media/todo-app.e6d6eceee74cc7d84c0b.jpg",
+    "static/media/clock.jpg": "/static/media/clock.133986ed4a0996eeb43b.jpg",
+    "static/media/js.png": "/static/media/js.fbab897430f930c5600b.png",
+    "static/media/1174949_js_react js_logo_react_react native_icon.png": "/static/media/1174949_js_react js_logo_react_react native_icon.e71f4c5b0c4306d65355.png",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.e742a0a409270dbe6e7e.png",
+    "index.html": "/index.html",
+    "main.7fc2315a.css.map": "/static/css/main.7fc2315a.css.map",
+    "main.05952ffc.js.map": "/static/js/main.05952ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc2315a.css",
+    "static/js/main.05952ffc.js"
+  ]
+}
